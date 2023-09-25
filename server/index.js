@@ -1,1 +1,1 @@
-console.log(__fiename);
+console.log("Hello");
